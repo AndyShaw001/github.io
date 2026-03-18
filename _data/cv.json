@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Tao Xiao",
+    "email": "andyshaw01001@163.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://andyshaw001.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Guiyang",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=Ifck1_MAAAAJ&hl=zh-CN"
       },
       {
         "network": "ORCID",
@@ -25,37 +25,37 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "andyshaw001",
+        "url": "https://github.com/andyshaw001"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Northwest University/The University of Hong Kong",
+      "area": "Ph.D in Geotechnical Engineering",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Northwest University",
+      "area": "M.S. in Geotechnical Engineering",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2022",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Chang'an University",
+      "area": "B.S. in Geotechnical Engineering",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
